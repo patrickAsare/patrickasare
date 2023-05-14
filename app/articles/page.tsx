@@ -52,6 +52,6 @@ export default async function ArticlesIndex() {
   );
 }
 
-export async function getData() {
+async function getData() {
   return (await getAllArticles()).map(({ component, ...meta }) => meta);
 }

@@ -313,6 +313,6 @@ export default async function Home() {
   );
 }
 
-export async function getData() {
+async function getData() {
   return (await getAllArticles()).map(({ component, ...meta }) => meta);
 }

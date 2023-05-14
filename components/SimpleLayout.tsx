@@ -1,6 +1,12 @@
-import { Container } from '@/components/Container'
+import { Container } from "@/components/Container";
 
-export function SimpleLayout({ title, intro, children }) {
+interface SimpleLayoutProps {
+  title: string;
+  intro: string;
+  children: React.ReactNode;
+}
+
+export function SimpleLayout({ title, intro, children }: SimpleLayoutProps) {
   return (
     <Container className="mt-16 sm:mt-32">
       <header className="max-w-2xl">
@@ -13,5 +19,5 @@ export function SimpleLayout({ title, intro, children }) {
       </header>
       <div className="mt-16 sm:mt-20">{children}</div>
     </Container>
-  )
+  );
 }

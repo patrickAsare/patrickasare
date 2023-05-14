@@ -1,7 +1,12 @@
-import { useId } from 'react'
+import { useId } from "react";
 
-export function Section({ title, children }) {
-  let id = useId()
+interface SectionProps {
+  title: string;
+  children: React.ReactNode;
+}
+
+export function Section({ title, children }: SectionProps) {
+  const id = useId();
 
   return (
     <section
@@ -18,5 +23,5 @@ export function Section({ title, children }) {
         <div className="md:col-span-3">{children}</div>
       </div>
     </section>
-  )
+  );
 }
