@@ -2,23 +2,32 @@
 
 ## Software Engineer | Platform Builder | Tech Enthusiast
 
-I'm a Software Engineer specializing in platform development, driven by a love for cutting-edge technology. My passion lies in leveraging technology to solve complex problems and deliver efficient, scalable solutions.💪
+I'm a Software Engineer specialising in platform development, driven by a love for cutting edge technology. My passion lies in leveraging technology to solve complex problems and deliver efficient, scalable solutions.💪
 
-## Skills and Experience
+## What I'm Building
 
-- 💻 Strong proficiency in JavaScript and PHP
-- 🎉 Have built applications using Python/Django and Ruby
-- 🖼️ Experienced with frameworks like Next.js, Nuxt.js and Laravel
-- 🛠 Experience with platform development and cloud technologies
-- 🌐 Deep understanding of web technologies
+🚀 **Sample Snap** - AI-assisted audio monetisation platform (launching soon) [https://samplesnap.com](https://samplesnap.com)
+🤝 **Hugging Face London Meetup** - Co-founder & organiser (700+ members)
 
-## Current Projects
+## Tech Stack
 
-Working on a few platform building projects using microservices architecture, containerization technologies, and cloud computing platforms.
+**Languages:** JavaScript, TypeScript, Python, PHP (it won't leave me alone)
+**Frontend:** React, Next.js
+**Backend:** Node.js, Django, Laravel, Express  
+**DevOps:** AWS (Certified), Kubernetes, Docker, CI/CD  
+**AI/ML:** Working with LLMs, audio processing, AI integrations
 
-## Current Learning
+## Current Focus
 
-- 📚 Currently delving into the world of blockchain, learning Solidity and exploring the Solana ecosystem
+- Building MVPs with AI assisted development workflows
+- Exploring audio processing and AI integrations
+- Growing the London AI/ML community
+- Helping startups launch faster and scale smarter
+
+## Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/patrickasare)  
+🔊 Sample Snap: [Sample Snap](https://samplesnap.com)
 
 ## Fun Facts
 
